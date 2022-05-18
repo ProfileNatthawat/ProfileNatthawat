@@ -1,4 +1,4 @@
-# Hi I'm Natthawat, Welcome to my Github profile 👋
+# Hi I'm Natthawat, Welcome to my Github Profile 👋
 
 I am Web Developer I have started Web Development since the internship more experience then my goals are made web application to solve user problem, answer business and improve myself to become better.
 
